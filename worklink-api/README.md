@@ -257,15 +257,15 @@ insert into usuarios values(1,'Bernardo Viero', 'b@gmail.com','03899889031','sen
 (4,'Juca Ralho', 'j@teste.com','01122654071','senha','97050200','Santa Maria','RS');
 
 insert into tipos_trabalho values(1,'Serviço de casa','Serviço Doméstico'),
-(2,'Caçar ou pescar animais silvestres','Manutenção e Reparos'),
-(3,'Caçar ou pescar animais silvestres','Construção e Reforma'),
-(4,'Caçar ou pescar animais silvestres','Jardinagem e Paisagismo'),
-(5,'Caçar ou pescar animais silvestres','Eventos e Hospitalidade'),
-(6,'Caçar ou pescar animais silvestres','Assistência Técnica e Tecnologia'),
-(7,'Caçar ou pescar animais silvestres','Transporte e Mudanças'),
-(8,'Caçar ou pescar animais silvestres','Educação e Treinamento'),
-(9,'Caçar ou pescar animais silvestres','Saúde e Bem-Estar'),
-(10,'Caçar ou pescar animais silvestres','Consultoria e Serviços Profissionais');
+(2,'Manutenção de equipamentos','Manutenção e Reparos'),
+(3,'Construção de moradias','Construção e Reforma'),
+(4,'Jardinagem e manutenção de áreas rurais','Jardinagem e Paisagismo'),
+(5,'Arquitetura e montagem de Festas','Eventos e Hospitalidade'),
+(6,'Suporte e reparo a computadores e celulares','Assistência Técnica e Tecnologia'),
+(7,'Fretes','Transporte e Mudanças'),
+(8,'Aulas educacionais e treinamentos físicos','Educação e Treinamento'),
+(9,'Aulas nutricionais e atendimentos de saúde','Saúde e Bem-Estar'),
+(10,'Consultoria para ajudar seu negócio','Consultoria e Serviços Profissionais');
 
 ```
 
